@@ -34,7 +34,7 @@ int main(int argc, char *argv[])
 		p1Disc = disc == WHITE ? BLACK : WHITE;
 	}
 
-	printf("<<<<< Welcome to the game of e >>>>>\n");
+	printf("<<<<< Welcome to the game of Project_1 >>>>>\n");
 	printf("Player 1: %c   Player 2: %c\n", p1Disc, p2Disc);
 	printf("Player %d starts the game...\n", turn);
 
